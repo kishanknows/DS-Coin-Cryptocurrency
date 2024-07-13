@@ -1,4 +1,4 @@
-# DS_Coin106
+# DS-Coin-Cryptocurrency
 This is an independent cyptocurrency made using the cryptographic concepts like hash functions,digital signatures with underlying data structures like linked list, queues, trees, etc.
 ## Introduction
 This is a course project of the course COL106(Data Structures and Algorithms) taken by our course instructors [Prof. Amitabha Bagchi](https://www.cse.iitd.ac.in/~bagchi/) and [Prof. Venkata Koppula](https://iitd.irins.org/profile/214118). It involves processes very similar to actual cryptocurrencies which are mentioned further.\
